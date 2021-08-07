@@ -25,9 +25,9 @@ I also contribute to the open-source [extendr](https://github.com/extendr) proje
 - or among [arXiv preprints](https://arxiv.org/search/?query=Kosenkov+I+A&searchtype=author&abstracts=show)
 
 ### Here are some silly stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ilia-Kosenkov&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilia-Kosenkov&show_icons=true&count_private=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ilia-Kosenkov&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=Ilia-Kosenkov&show_icons=true&count_private=true&theme=dark)
 
 ### What else?
 - Dark mode all the way
