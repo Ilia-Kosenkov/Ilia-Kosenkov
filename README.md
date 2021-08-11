@@ -20,7 +20,7 @@ I am a proud author of [dipol-uf/dipol-uf](https://github.com/dipol-uf/dipol-uf)
 I also contribute to the open-source [extendr](https://github.com/extendr) project, which bridges `Rust` and `R`. Check out [extendr](https://github.com/extendr/extendr), `Rust` crate that helps write code compatible with `R`, and [rextendr](https://github.com/extendr/rextendr), an `R` pacakge for scaffolding, building and testing `R` packages that use `extendr`.
 
 ### My publications can be found...
-- at ADS (e.g., [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20author%3A%22Kosenkov%2C%20I.A.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0))
+- at ADS (e.g., [here](https://ui.adsabs.harvard.edu/search/q=author%3A"Kosenkov%2CIlia"))
 - also here <a itemprop="sameAs" content="https://orcid.org/0000-0001-5563-7840" href="https://orcid.org/0000-0001-5563-7840" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5563-7840</a>
 - or among [arXiv preprints](https://arxiv.org/search/?query=Kosenkov+I+A&searchtype=author&abstracts=show)
 
