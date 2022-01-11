@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Ilia and I am an astrophysicist. No, seriously. Like an astronomer, but with more physics involved.
+My name is Ilia and I am an astrophysicist and a PhD. No, seriously. Like an astronomer, but with more physics involved.
 
 But I write code and I really enjoy it. 
 
