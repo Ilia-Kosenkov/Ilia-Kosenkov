@@ -22,7 +22,7 @@ I also contribute to the open-source [extendr](https://github.com/extendr) proje
 ### My publications can be found...
 - at ADS (e.g., [here](https://ui.adsabs.harvard.edu/search/q=author%3AKosenkov%2CIlia))
 - also here <a itemprop="sameAs" content="https://orcid.org/0000-0001-5563-7840" href="https://orcid.org/0000-0001-5563-7840" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5563-7840</a>
-- or among [arXiv preprints](https://arxiv.org/search/?query=Kosenkov+I+A&searchtype=author&abstracts=show)
+- or among [arXiv preprints](https://arxiv.org/a/kosenkov_i_1)
 
 ### Here are some silly stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ilia-Kosenkov&theme=dark)
