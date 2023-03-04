@@ -32,4 +32,4 @@ I also contribute to the open-source [extendr](https://github.com/extendr) proje
 ### What else?
 - Dark mode all the way
 - In my free time I enjoy gaming, mostly PC (I have a looong history).
-- Sometimes I write awkward blogposts (in Russian) on [habr](https://habr.com/en/users/BkmzSpb/posts/)
+
